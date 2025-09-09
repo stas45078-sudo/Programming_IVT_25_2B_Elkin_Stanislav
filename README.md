@@ -6,4 +6,4 @@
 
 - [ ] hjiiuyiui
 
-<https:/pstu.ru</>
+<https:/pstu.ru/>
