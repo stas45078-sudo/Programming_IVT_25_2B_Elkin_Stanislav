@@ -1,1 +1,1 @@
-![img](https://yandex.ru/images/search?img_url=https%3A%2F%2Fi.pinimg.com%2F736x%2F2f%2F94%2F52%2F2f9452ab7dbc5df598938c412c826e4c.jpg&lr=54&pos=3&rpt=simage&serp_list_type=ideas&text=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA.jpg] "котик")
+![img](https://yandex.ru/images/search?img_url=https%3A%2F%2Fi.pinimg.com%2F736x%2F2f%2F94%2F52%2F2f9452ab7dbc5df598938c412c826e4c.jpg&lr=54&pos=3&rpt=simage&serp_list_type=ideas&text=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA](https://i.pinimg.com/736x/27/cb/70/27cb70c5b0989fb48d1d06bc32143239] "котик")
