@@ -9,3 +9,5 @@ __Стасочек__
 ``Стасиклав``
 
 <strike>dwads</strike>
+
+<ins>dwads</ins>
