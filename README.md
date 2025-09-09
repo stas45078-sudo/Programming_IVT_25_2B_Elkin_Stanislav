@@ -1,5 +1,6 @@
 ```c/python
 print("hello world")
+helloworld("print")
 ```
 
 |A|B|A+B|
