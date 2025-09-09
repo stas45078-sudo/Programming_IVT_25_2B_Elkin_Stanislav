@@ -1,17 +1,7 @@
-*Стасик*
-
-**Станиславик**
-
-__Стасочек__
-
-***Станок***
-
-``Стасиклав``
-
-<strike>dwads</strike>
-
-<ins>dwads</ins>
-
 >dwafjkaekjlfjajkl
 
->#wfawjflwjak
+># wfawjflwjak
+
+-[x] сакинг кок
+
+-[] сакинг кок
